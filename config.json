@@ -19,7 +19,7 @@
     },
     "frequency": {
       "interstitialEveryNBreaks": 2,
-      "interstitialCooldownSeconds": 60,
+      "interstitialCooldownSeconds": 120,
       "interstitialMaxPerSession": 12,
       "noInterstitialFirstSeconds": 30,
       "fullscreenGapSeconds": 25,
@@ -29,7 +29,7 @@
       "appOpenOnSplash": true,
       "appOpenSkipFirstLaunch": true,
       "nativeEveryMin": 3,
-      "nativeEveryMax": 4,
+      "nativeEveryMax": 6,
       "importGateMin": 2,
       "importGateMax": 2
     },
